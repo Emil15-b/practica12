@@ -18,4 +18,4 @@ jobs:
 
       - name: Check for 'Hello world in text files
         run: |
-          cat 12.txt 12(1).txt | grep -q 'Hello world'
+          cat 12.txt 121.txt | grep -q 'Hello world'
